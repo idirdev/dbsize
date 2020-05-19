@@ -1,0 +1,22 @@
+{
+  "name": "@idirdev/dbsize",
+  "version": "1.0.0",
+  "description": "Estimate database and directory sizes",
+  "main": "src/index.js",
+  "author": "idirdev",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/idirdev/dbsize.git"
+  },
+  "keywords": [],
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "scripts": {
+    "test": "node --test tests/"
+  },
+  "bin": {
+    "dbsize": "bin/cli.js"
+  }
+}
