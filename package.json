@@ -18,5 +18,9 @@
   },
   "bin": {
     "dbsize": "bin/cli.js"
+  },
+  "homepage": "https://github.com/idirdev/dbsize",
+  "bugs": {
+    "url": "https://github.com/idirdev/dbsize/issues"
   }
 }
